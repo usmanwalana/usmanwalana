@@ -14,6 +14,17 @@ sections:
         label: Let's talk
         url: /contact
         style: button
+  - type: section_posts
+    title: Latest from the Blog
+    section_id: latest-posts
+    subtitle: An optional subtitle of the section
+    posts_number: 3
+    col_number: three
+    actions:
+      - type: action
+        label: View Blog
+        url: blog
+        style: button
   - type: section_portfolio
     title: Recent Work
     section_id: latest-projects
@@ -80,17 +91,6 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - type: section_posts
-    title: Latest from the Blog
-    section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - type: action
-        label: View Blog
-        url: blog
-        style: button
 seo:
   type: stackbit_page_meta
   title: Stackbit Exto Theme
