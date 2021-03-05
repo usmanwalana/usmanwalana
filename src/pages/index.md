@@ -34,7 +34,7 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - type: section_grid
-    title: What We Do
+    title: What I Do
     section_id: services
     subtitle: An optional subtitle of the section
     col_number: two
