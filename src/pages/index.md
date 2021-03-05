@@ -42,10 +42,9 @@ sections:
     grid_items:
       - type: grid_item
         title: Java
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Java full stack development from scratch using Spring framework and
+          latest tools and technologies.
       - type: grid_item
         title: Service Title
         content: >-
