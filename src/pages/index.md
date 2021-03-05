@@ -52,10 +52,8 @@ sections:
           security optimizations.
       - type: grid_item
         title: UI/UX
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: |
+          Front end development using HTML5 and latest Angular frameworks.
       - type: grid_item
         title: Service title
         content: >-
