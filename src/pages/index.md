@@ -63,7 +63,7 @@ sections:
     title: Testimonials
     section_id: testimonials
     subtitle: See what clients have to say about me
-    col_number: three
+    col_number: two
     testimonials:
       - type: testimonial
         author: Sean Salazar
