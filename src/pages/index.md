@@ -47,10 +47,9 @@ sections:
           latest tools and technologies.
       - type: grid_item
         title: Wordpress
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Design and development of Wordpress powered site along with speed and
+          security optimizations.
       - type: grid_item
         title: Service Title
         content: >-
