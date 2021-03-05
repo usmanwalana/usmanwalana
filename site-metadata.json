@@ -78,7 +78,7 @@
             },
             {
                 "type": "action",
-                "label": "LinkedIn",
+                "label": "Youtube",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
                 "icon": "linkedin",
