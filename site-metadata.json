@@ -43,7 +43,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/Logo-1x.png"
     },
     "footer": {
         "type": "footer",
