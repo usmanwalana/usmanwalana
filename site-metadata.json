@@ -71,7 +71,7 @@
             {
                 "type": "action",
                 "label": "Facebook",
-                "url": "https://dribbble.com/",
+                "url": "https://facebook/",
                 "style": "icon",
                 "icon": "dribbble",
                 "new_window": true
