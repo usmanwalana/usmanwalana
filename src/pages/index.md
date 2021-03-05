@@ -71,7 +71,7 @@ sections:
         avatar_alt: Dan Worker's photo
         content: "Muhammad is a knowledgeable, friendly worker that stays focused and listens to what I wanted and he delivered it all. I learned a lot from Muhammad who was easy to talk and share with, as he cares about his work and his customers. If you want someone that’ll get the job done use this freelancer. \U0001F44D"
       - type: testimonial
-        author: Aubrey Hoover
+        author: Kadri Masso
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
