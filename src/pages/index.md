@@ -46,7 +46,7 @@ sections:
           Java full stack development from scratch using Spring framework and
           latest tools and technologies.
       - type: grid_item
-        title: Service Title
+        title: Wordpress
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
