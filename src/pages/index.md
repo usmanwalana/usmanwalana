@@ -69,10 +69,7 @@ sections:
         author: Dan Worker
         avatar: images/sean_salazar.jpg
         avatar_alt: Dan Worker's photo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+        content: "Muhammad is a knowledgeable, friendly worker that stays focused and listens to what I wanted and he delivered it all. I learned a lot from Muhammad who was easy to talk and share with, as he cares about his work and his customers. If you want someone that’ll get the job done use this freelancer. \U0001F44D"
       - type: testimonial
         author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
