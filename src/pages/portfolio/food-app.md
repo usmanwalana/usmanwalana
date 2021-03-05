@@ -1,6 +1,6 @@
 ---
 title: Food App
-subtitle: lorem-ipsum
+subtitle: Fast Food App
 date: '2021-03-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
