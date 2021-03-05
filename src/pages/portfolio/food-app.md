@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Food App
 subtitle: lorem-ipsum
 date: '2021-03-05'
 thumb_image_alt: lorem-ipsum
