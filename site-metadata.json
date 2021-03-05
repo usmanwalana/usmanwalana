@@ -49,7 +49,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Usman Walana. All rights reserved. This Jamstack site was created with <a href=\"https://usman.walana.org target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Usman Walana. All rights reserved. This Jamstack site was created with <a href=\"https://usman.walana.org/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "has_social": true,
         "social_links": [
             {
