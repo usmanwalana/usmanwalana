@@ -62,7 +62,7 @@ sections:
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: See what clients have to say about me
     col_number: three
     testimonials:
       - type: testimonial
