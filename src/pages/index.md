@@ -74,9 +74,7 @@ sections:
         author: Kadri Masso
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Kadri Masso's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: "Great job from Muhammad! Always available for changes and great communication skills. Did even more extra than was expected of him. Highly recommended! \U0001F525"
 seo:
   type: stackbit_page_meta
   title: Stackbit Exto Theme
