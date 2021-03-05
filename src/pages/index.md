@@ -66,7 +66,7 @@ sections:
     col_number: two
     testimonials:
       - type: testimonial
-        author: Sean Salazar
+        author: Dan Worker
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
