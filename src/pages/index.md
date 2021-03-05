@@ -68,7 +68,7 @@ sections:
       - type: testimonial
         author: Dan Worker
         avatar: images/sean_salazar.jpg
-        avatar_alt: Dan Workerr's photo
+        avatar_alt: Dan Worker's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
