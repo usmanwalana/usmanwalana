@@ -49,7 +49,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Usman Walana. <a href=\"https://usman.walana.org/\" target=\"_blank\" rel=\"noopener\">Usman Walana</a>. ",
+        "content": "&copy; Usman Walana. <a href=\"https://usman.walana.org/\" target=\"_blank\" rel=\"noopener\">Usman Walana</a>. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
