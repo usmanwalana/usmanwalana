@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Usman Walana",
     "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
         "type": "header",
-        "title": "Exto",
+        "title": "Usman Walana",
         "has_nav": true,
         "nav_links": [
             {
@@ -43,17 +43,19 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/Logo-1x.png",
+        "logo_img_alt": "Usman Walana"
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy;  <a href=\"https://usman.walana.org/\" target=\"_blank\" rel=\"noopener\">Usman Walana</a>. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
                 "type": "action",
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/usmanwalana",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
@@ -61,25 +63,25 @@
             {
                 "type": "action",
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/usmanwalana",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
                 "type": "action",
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Facebook",
+                "url": "https://facebook/walana.org",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "facebook",
                 "new_window": true
             },
             {
                 "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UC0v8HWuQ6N8UW1p2g-BWHpQ",
                 "style": "icon",
-                "icon": "linkedin",
+                "icon": "youtube",
                 "new_window": true
             }
         ]
