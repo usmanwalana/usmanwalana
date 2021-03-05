@@ -17,7 +17,7 @@ sections:
   - type: section_posts
     title: Latest from the Blog
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: See what I have been writing
     posts_number: 3
     col_number: three
     actions:
