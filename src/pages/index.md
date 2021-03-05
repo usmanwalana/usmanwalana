@@ -55,7 +55,7 @@ sections:
         content: |
           Front end development using HTML5 and latest Angular frameworks.
       - type: grid_item
-        title: Service title
+        title: Jamstack
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
