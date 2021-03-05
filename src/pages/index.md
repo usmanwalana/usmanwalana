@@ -5,9 +5,10 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Usman Walana.'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A Software Engineer from Lahore, Pakistan, having rich experience in web
+      site design and development. Someone who enjoys traveling and trying new
+      experiences and adventures.
     actions:
       - type: action
         label: Let's talk
