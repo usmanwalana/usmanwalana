@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: project
 image: /images/magical-mango.png
+thumb_image: /images/6-NEW.png
 ---
 Developed a full stack web application for fast food point of sale.
 
