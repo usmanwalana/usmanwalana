@@ -56,9 +56,9 @@ sections:
           Front end development using HTML5 and latest Angular frameworks.
       - type: grid_item
         title: Jamstack
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Develop blazing fast personal/porfolio websites and blogs using static
+          site generators.
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
