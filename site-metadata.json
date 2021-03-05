@@ -44,7 +44,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "/images/Logo-1x.png"
+        "logo_img": "/images/Logo-1x.png",
+        "logo_img_alt": "Usman Walana"
     },
     "footer": {
         "type": "footer",
