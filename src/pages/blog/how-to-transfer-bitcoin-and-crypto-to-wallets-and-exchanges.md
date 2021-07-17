@@ -3,7 +3,9 @@ title: How to Transfer Bitcoin & Crypto to Wallets & Exchanges
 date: '2021-07-17'
 thumb_image_alt: How to Transfer Bitcoin & Crypto to Wallets & Exchanges
 image_alt: How to Transfer Bitcoin & Crypto to Wallets & Exchanges
-excerpt: lorem-ipsum
+excerpt: >-
+  In this video lets explore how to transfer bitcoin or other cryptocurrencies
+  from RAIN to BINANCE
 seo:
   title: ''
   description: ''
