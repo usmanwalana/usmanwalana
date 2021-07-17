@@ -1,6 +1,6 @@
 ---
 title: PMall
-subtitle: lorem-ipsum
+subtitle: Online Electronics Store
 date: '2021-07-17'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
