@@ -3,7 +3,7 @@ title: BMIS
 subtitle: Business Management Information System
 date: '2021-07-17'
 thumb_image_alt: BMIS
-image_alt: lorem-ipsum
+image_alt: BMIS
 seo:
   title: ''
   description: ''
