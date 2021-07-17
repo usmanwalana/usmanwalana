@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/KONYA.png
+thumb_image: /images/KONYA.png
 ---
 ## Lorem ipsum
 
