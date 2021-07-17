@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: project
 thumb_image: /images/BMIS.png
+image: /images/BMIS.png
 ---
 ## Lorem ipsum
 
