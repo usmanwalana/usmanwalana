@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+image: /images/WELLCOME-LOUNGE-web.png
 ---
 Let's explore Wellcome Lounge on Terminal 2 of Riyadh King Khalid International Airport and see what facilities it has to offer.
 
