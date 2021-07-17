@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/TURKEY.png
+thumb_image: /images/TURKEY.png
 ---
 ## Lorem ipsum
 
