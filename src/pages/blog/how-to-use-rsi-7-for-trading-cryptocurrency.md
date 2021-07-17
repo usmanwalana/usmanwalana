@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/RS1.png
+thumb_image: /images/RS1.png
 ---
 RSI-7 can provide valuable information about a trading pair. Let's see how it can help in decision making.
 
