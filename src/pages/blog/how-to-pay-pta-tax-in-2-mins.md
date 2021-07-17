@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/PTA.png
+thumb_image: /images/PTA.png
 ---
 In this video I demonstrate how to pay PTA mobile tax and get your mobile device approved by PTA in 2 minutes.
 
