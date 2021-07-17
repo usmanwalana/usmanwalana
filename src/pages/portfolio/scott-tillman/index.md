@@ -1,6 +1,6 @@
 ---
 title: Scott Tillman
-subtitle: lorem-ipsum
+subtitle: Developed a personal wordpress website for the client.
 date: '2021-07-17'
 thumb_image_alt: Scott Tillman
 image_alt: Scott Tillman
