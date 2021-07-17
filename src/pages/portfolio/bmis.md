@@ -14,9 +14,6 @@ template: project
 thumb_image: /images/BMIS.png
 image: /images/BMIS.png
 ---
-## Lorem ipsum
+Developed a full stack web application for business management information system with different integrated modules.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[View on GitHub](https://github.com/usmanwalana/Portfolio-Public/tree/master/BMIS)
