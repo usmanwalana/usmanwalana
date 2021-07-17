@@ -3,7 +3,7 @@ title: Best Credit Card for Traveling
 date: '2020-10-26'
 thumb_image_alt: Best Credit Card for Traveling
 image_alt: Best Credit Card for Traveling
-excerpt: lorem-ipsum
+excerpt: Free Credit card for frequent travellers.
 seo:
   title: ''
   description: ''
