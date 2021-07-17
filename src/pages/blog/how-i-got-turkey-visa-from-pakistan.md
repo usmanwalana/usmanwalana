@@ -1,6 +1,6 @@
 ---
 title: How I Got Turkey Visa From Pakistan?
-subtitle: lorem-ipsum
+subtitle: Complete Guide
 date: '2021-07-17'
 thumb_image_alt: How I Got Turkey Visa From Pakistan?
 image_alt: How I Got Turkey Visa From Pakistan?
