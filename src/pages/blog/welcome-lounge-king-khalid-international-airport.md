@@ -1,6 +1,6 @@
 ---
 title: Wellcome Lounge | King Khalid International Airport Riyadh
-date: '2021-07-02'
+date: '2020-11-20'
 thumb_image_alt: Wellcome Lounge | King Khalid International Airport Riyadh
 image_alt: Wellcome Lounge | King Khalid International Airport Riyadh
 excerpt: lorem-ipsum
