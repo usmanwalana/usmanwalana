@@ -3,8 +3,10 @@ title: How To Use RSI-7 For Trading Cryptocurrency
 subtitle: lorem-ipsum
 date: '2021-07-17'
 thumb_image_alt: How To Use RSI-7 For Trading Cryptocurrency
-image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+image_alt: How To Use RSI-7 For Trading Cryptocurrency
+excerpt: >-
+  RSI-7 can provide valuable information about a trading pair. Let's see how it
+  can help in decision making.
 seo:
   title: ''
   description: ''
