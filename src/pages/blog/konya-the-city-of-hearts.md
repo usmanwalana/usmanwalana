@@ -6,7 +6,9 @@ subtitle: >-
 date: '2021-07-17'
 thumb_image_alt: 'Visiting Konya: The City of Hearts ❤️'
 image_alt: 'Visiting Konya: The City of Hearts ❤️'
-excerpt: lorem-ipsum
+excerpt: >-
+  Experience the Rich Islamic history at Konya and feel the Dervish life for 1
+  day.
 seo:
   title: ''
   description: ''
