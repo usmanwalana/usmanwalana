@@ -1,7 +1,7 @@
 ---
 title: PMall
 subtitle: Online Electronics Store
-date: '2021-07-17'
+date: '2021-07-01'
 thumb_image_alt: PMall
 image_alt: PMall
 seo:
