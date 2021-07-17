@@ -1,5 +1,5 @@
 ---
-title: BMIIIS
+title: BMIS
 subtitle: lorem-ipsum
 date: '2021-07-17'
 thumb_image_alt: lorem-ipsum
