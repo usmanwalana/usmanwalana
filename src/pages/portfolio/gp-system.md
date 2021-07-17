@@ -13,9 +13,6 @@ seo:
 template: project
 image: /images/GP.png
 ---
-## Lorem ipsum
+Developed a full stack web application for managing business.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[View on GitHub](https://github.com/usmanwalana/Portfolio-Public/tree/master/GP-SYS)
