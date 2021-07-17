@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/BITCOIN.png
+thumb_image: /images/BITCOIN.png
 ---
 ## Lorem ipsum
 
