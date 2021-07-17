@@ -12,9 +12,6 @@ seo:
   type: stackbit_page_meta
 template: project
 ---
-## Lorem ipsum
+Developed a wordpress website for electronics store.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[View on GitHub](https://github.com/usmanwalana/Portfolio-Public/tree/master/PMall)
