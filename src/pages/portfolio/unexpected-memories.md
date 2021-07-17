@@ -13,9 +13,6 @@ seo:
 template: project
 image: /images/UM.png
 ---
-## Lorem ipsum
+Developed a full stack web application for students of university in Netherlands to find bars listings nearby.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[View on GitHub](https://github.com/usmanwalana/Portfolio-Public/tree/master/Unexpected-Memories)
