@@ -2,7 +2,7 @@
 title: Wellcome Lounge | King Khalid International Airport Riyadh
 subtitle: lorem-ipsum
 date: '2021-07-17'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Wellcome Lounge | King Khalid International Airport Riyadh
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
