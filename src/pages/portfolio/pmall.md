@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: project
 image: /images/pmall-big.png
+thumb_image: /images/successful-hedgehog.png
 ---
 Developed a wordpress website for electronics store.
 
