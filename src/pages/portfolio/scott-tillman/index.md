@@ -3,7 +3,7 @@ title: Scott Tillman
 subtitle: lorem-ipsum
 date: '2021-07-17'
 thumb_image_alt: Scott Tillman
-image_alt: lorem-ipsum
+image_alt: Scott Tillman
 seo:
   title: ''
   description: ''
