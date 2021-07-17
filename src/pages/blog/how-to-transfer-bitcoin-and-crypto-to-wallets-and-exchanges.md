@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/TRANSFER B.png
+thumb_image: /images/TRANSFER B.png
 ---
 <https://youtu.be/LnvWW80ldgw>
 
