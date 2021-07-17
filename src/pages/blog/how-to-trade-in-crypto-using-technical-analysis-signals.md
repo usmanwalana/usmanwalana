@@ -1,7 +1,7 @@
 ---
 title: How to trade in Crypto using Technical Analysis Signals
 date: '2021-07-17'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: How to trade in Crypto using Technical Analysis Signals
 image_alt: How to trade in Crypto using Technical Analysis Signals
 excerpt: lorem-ipsum
 seo:
