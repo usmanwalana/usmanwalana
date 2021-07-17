@@ -2,8 +2,8 @@
 title: 'Visiting Konya: The City of Hearts ❤️'
 subtitle: lorem-ipsum
 date: '2021-07-17'
-thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+thumb_image_alt: 'Visiting Konya: The City of Hearts ❤️'
+image_alt: 'Visiting Konya: The City of Hearts ❤️'
 excerpt: lorem-ipsum
 seo:
   title: ''
