@@ -1,6 +1,6 @@
 ---
 title: How To Use RSI-7 For Trading Cryptocurrency
-date: '2021-07-17'
+date: '2021-07-01'
 thumb_image_alt: How To Use RSI-7 For Trading Cryptocurrency
 image_alt: How To Use RSI-7 For Trading Cryptocurrency
 excerpt: >-
