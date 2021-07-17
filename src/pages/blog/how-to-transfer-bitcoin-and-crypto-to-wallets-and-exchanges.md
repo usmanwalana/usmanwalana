@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to Transfer Bitcoin & Crypto to Wallets & Exchanges
 subtitle: lorem-ipsum
 date: '2021-07-17'
 thumb_image_alt: lorem-ipsum
