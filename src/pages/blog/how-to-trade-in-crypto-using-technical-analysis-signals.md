@@ -1,6 +1,6 @@
 ---
 title: How to trade in Crypto using Technical Analysis Signals
-date: '2021-07-03'
+date: '2021-01-30'
 thumb_image_alt: How to trade in Crypto using Technical Analysis Signals
 image_alt: How to trade in Crypto using Technical Analysis Signals
 excerpt: >-
