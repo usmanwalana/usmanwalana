@@ -1,6 +1,5 @@
 ---
 title: How to Transfer Bitcoin & Crypto to Wallets & Exchanges
-subtitle: lorem-ipsum
 date: '2021-07-17'
 thumb_image_alt: How to Transfer Bitcoin & Crypto to Wallets & Exchanges
 image_alt: How to Transfer Bitcoin & Crypto to Wallets & Exchanges
