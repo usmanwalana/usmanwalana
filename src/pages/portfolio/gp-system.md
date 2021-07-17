@@ -1,6 +1,6 @@
 ---
 title: GP SYSTEM
-subtitle: lorem-ipsum
+subtitle: Developed a full stack web application for managing business.
 date: '2021-07-17'
 thumb_image_alt: GP SYSTEM
 image_alt: GP SYSTEM
