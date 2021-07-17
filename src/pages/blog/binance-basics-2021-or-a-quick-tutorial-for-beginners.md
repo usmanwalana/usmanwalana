@@ -1,7 +1,7 @@
 ---
 title: BINANCE BASICS 2021 | A Quick Tutorial For Beginners
 date: '2021-07-17'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: BINANCE BASICS 2021 | A Quick Tutorial For Beginners
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
