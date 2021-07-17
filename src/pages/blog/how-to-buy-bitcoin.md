@@ -17,9 +17,20 @@ template: post
 image: /images/BITCOIN.png
 thumb_image: /images/BITCOIN.png
 ---
-## Lorem ipsum
+<https://youtu.be/r_Mj9-mNsAM>
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+In this video, let's explore step by step process to buy bitcoin and other crypto currencies in Saudi Arabia, UAE, Bahrain, Kuwait, Oman and other countries.
 
-- Lorem ipsum
-- dolor sit amet
+## btc #bitcoin #eth #buybitcoin #crypto #cryptocurrency #cryptotrading
+
+To buy: [https://www.rain.bh](https://www.rain.bh/)
+
+Connect with me:
+
+Web: <https://usman.walana.org/>
+
+Twitter: <https://twitter.com/usmanwalana>
+
+Facebook: <https://www.facebook.com/walana.org>
+
+Instagram: <https://www.instagram.com/usmanwalana/>
