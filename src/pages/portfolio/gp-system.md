@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: project
 image: /images/GP.png
+thumb_image: /images/GP.png
 ---
 Developed a full stack web application for managing business.
 
