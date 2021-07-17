@@ -2,7 +2,7 @@
 title: Unexpected Memories
 subtitle: lorem-ipsum
 date: '2021-07-17'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Unexpected Memories
 image_alt: lorem-ipsum
 seo:
   title: ''
