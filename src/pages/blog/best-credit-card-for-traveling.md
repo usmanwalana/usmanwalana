@@ -2,8 +2,8 @@
 title: Best Credit Card for Traveling
 subtitle: lorem-ipsum
 date: '2021-07-17'
-thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+thumb_image_alt: Best Credit Card for Traveling
+image_alt: Best Credit Card for Traveling
 excerpt: lorem-ipsum
 seo:
   title: ''
