@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/BB.png
+image: /images/BB.png
 ---
 In this video let's take a quick look at the Binance exchange which is the world's most widely used cryptocurrency exchange. I will discuss the main user interface you will be using on daily basis.
 
