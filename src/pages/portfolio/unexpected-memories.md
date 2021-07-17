@@ -1,6 +1,6 @@
 ---
 title: Unexpected Memories
-subtitle: lorem-ipsum
+subtitle: A Project for University Students
 date: '2021-07-17'
 thumb_image_alt: Unexpected Memories
 image_alt: Unexpected Memories
