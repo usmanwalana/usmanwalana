@@ -1,6 +1,6 @@
 ---
 title: BMIS
-subtitle: lorem-ipsum
+subtitle: Business Management Information System
 date: '2021-07-17'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
