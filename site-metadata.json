@@ -71,7 +71,7 @@
             {
                 "type": "action",
                 "label": "Facebook",
-                "url": "https://facebook/walana.org",
+                "url": "https://facebook.com/walana.org",
                 "style": "icon",
                 "icon": "facebook",
                 "new_window": true
