@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/CARD.png
+thumb_image: /images/CARD.png
 ---
 In this video, I explain about Al Rajhi Travel Plus Credit Card which is a must have for frequent travelers and is completely free along with access to over 900+ airport lounges via LoungeKey program. I will walkthrough step by step process to obtain this credit card and register in LoungeKey.
 
