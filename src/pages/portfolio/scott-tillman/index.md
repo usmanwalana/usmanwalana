@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: project
 image: /images/SCOTT.png
+thumb_image: /images/SCOTT.png
 ---
 Developed a personal wordpress website for the client.
 
