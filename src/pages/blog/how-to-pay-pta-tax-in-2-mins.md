@@ -15,9 +15,6 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+In this video I demonstrate how to pay PTA mobile tax and get your mobile device approved by PTA in 2 minutes.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+<https://youtu.be/veUwPNxFFwI>
