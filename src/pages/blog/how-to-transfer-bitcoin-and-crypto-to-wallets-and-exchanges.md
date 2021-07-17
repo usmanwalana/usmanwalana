@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+image: /images/TRANSFER B.png
 ---
 ## Lorem ipsum
 
