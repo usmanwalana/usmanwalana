@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: project
 image: /images/UM.png
+thumb_image: /images/UM.png
 ---
 Developed a full stack web application for students of university in Netherlands to find bars listings nearby.
 
