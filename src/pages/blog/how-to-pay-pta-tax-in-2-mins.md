@@ -1,6 +1,6 @@
 ---
 title: How to Pay PTA Tax in 2 Mins
-date: '2020-11-02'
+date: '2020-11-28'
 thumb_image_alt: How to Pay PTA Tax in 2 Mins
 image_alt: How to Pay PTA Tax in 2 Mins
 excerpt: >-
